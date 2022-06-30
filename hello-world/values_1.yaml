@@ -1,0 +1,7 @@
+replicaCount: 1
+
+image: bash:devel-alpine3.15
+
+name: hello-world-1
+
+text: "hello world 1"
