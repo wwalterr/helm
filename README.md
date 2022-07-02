@@ -1,6 +1,6 @@
 # Helm
 
-Share persistent volume with Kubernetes and Helm
+Shared persistent volume with Kubernetes and Helm
 
 ## Built with
 
